@@ -1,0 +1,282 @@
+Zeile 1 ist gleich.
+--------------------------------
+Zeile 2 ist unterschiedlich.
+cat.txt: Banane
+cat.txt: Banane
+fox.txt: Birne
+fox.txt: Birne
+--------------------------------
+Zeile 3 ist gleich.
+--------------------------------
+Zeile 4 ist gleich.
+--------------------------------
+Zeile 5 ist gleich.
+--------------------------------
+Zeile 1 ist gleich.
+--------------------------------
+Zeile 2 ist unterschiedlich.
+cat.txt: Banane
+cat.txt: Banane
+fox.txt: Birne
+fox.txt: Birne
+--------------------------------
+Zeile 3 ist gleich.
+--------------------------------
+Zeile 4 ist gleich.
+--------------------------------
+Zeile 5 ist gleich.
+--------------------------------
+Zeile 6 ist unterschiedlich.
+cat.txt: Feige
+cat.txt: Feige
+fox.txt: Grapefruit
+fox.txt: Grapefruit
+--------------------------------
+Zeile 1 ist gleich.
+--------------------------------
+Zeile 2 ist unterschiedlich.
+cat.txt: Banane
+cat.txt: Banane
+fox.txt: Birne
+fox.txt: Birne
+--------------------------------
+Zeile 3 ist gleich.
+--------------------------------
+Zeile 4 ist gleich.
+--------------------------------
+Zeile 5 ist gleich.
+--------------------------------
+Zeile 1 ist gleich.
+--------------------------------
+Zeile 2 ist unterschiedlich.
+cat.txt: Banane
+cat.txt: Banane
+fox.txt: Birne
+fox.txt: Birne
+--------------------------------
+Zeile 3 ist gleich.
+--------------------------------
+Zeile 4 ist gleich.
+--------------------------------
+Zeile 5 ist gleich.
+--------------------------------
+Zeile 6 ist unterschiedlich.
+cat.txt: Feige
+cat.txt: Feige
+fox.txt: Grapefruit
+fox.txt: Grapefruit
+--------------------------------
+Zeile 1 ist gleich.
+--------------------------------
+Zeile 2 ist unterschiedlich.
+cat.txt: Banane
+cat.txt: Banane
+fox.txt: Birne
+fox.txt: Birne
+--------------------------------
+Zeile 3 ist gleich.
+--------------------------------
+Zeile 4 ist gleich.
+--------------------------------
+Zeile 5 ist gleich.
+--------------------------------
+Zeile 6 ist unterschiedlich.
+cat.txt: Feige
+cat.txt: Feige
+fox.txt: Grapefruit
+fox.txt: Grapefruit
+--------------------------------
+Zeile 1 ist gleich.
+--------------------------------
+Zeile 2 ist unterschiedlich.
+cat.txt: Banane
+cat.txt: Banane
+fox.txt: Birne
+fox.txt: Birne
+--------------------------------
+Zeile 3 ist gleich.
+--------------------------------
+Zeile 4 ist gleich.
+--------------------------------
+Zeile 5 ist gleich.
+--------------------------------
+Zeile 6 ist unterschiedlich.
+cat.txt: Feige
+cat.txt: Feige
+fox.txt: Grapefruit
+fox.txt: Grapefruit
+--------------------------------
+Zeile 7 ist gleich.
+--------------------------------
+Zeile 1 ist gleich.
+--------------------------------
+Zeile 2 ist unterschiedlich.
+cat.txt: Banane
+cat.txt: Banane
+fox.txt: Birne
+fox.txt: Birne
+--------------------------------
+Zeile 3 ist gleich.
+--------------------------------
+Zeile 4 ist gleich.
+--------------------------------
+Zeile 5 ist gleich.
+--------------------------------
+Zeile 6 ist unterschiedlich.
+cat.txt: Feige
+cat.txt: Feige
+fox.txt: Grapefruit
+fox.txt: Grapefruit
+--------------------------------
+Zeile 7 ist gleich.
+--------------------------------
+Zeile 1 ist gleich.
+--------------------------------
+Zeile 2 ist unterschiedlich.
+cat.txt: Banane
+cat.txt: Banane
+fox.txt: Birne
+fox.txt: Birne
+--------------------------------
+Zeile 3 ist gleich.
+--------------------------------
+Zeile 4 ist gleich.
+--------------------------------
+Zeile 5 ist gleich.
+--------------------------------
+Zeile 6 ist unterschiedlich.
+cat.txt: Feige
+cat.txt: Feige
+fox.txt: Grapefruit
+fox.txt: Grapefruit
+--------------------------------
+Zeile 7 ist gleich.
+--------------------------------
+Zeile 1 ist gleich.
+--------------------------------
+Zeile 2 ist unterschiedlich.
+fox.txt: Birne
+fox.txt: Birne
+cat.txt: Banane
+cat.txt: Banane
+--------------------------------
+Zeile 3 ist gleich.
+--------------------------------
+Zeile 4 ist gleich.
+--------------------------------
+Zeile 5 ist gleich.
+--------------------------------
+Zeile 6 ist unterschiedlich.
+fox.txt: Grapefruit
+fox.txt: Grapefruit
+cat.txt: Feige
+cat.txt: Feige
+--------------------------------
+Zeile 7 ist gleich.
+--------------------------------
+Zeile 1 ist gleich.
+--------------------------------
+Zeile 2 ist unterschiedlich.
+cat.txt: Banane
+cat.txt: Banane
+fox.txt: Birne
+fox.txt: Birne
+--------------------------------
+Zeile 3 ist gleich.
+--------------------------------
+Zeile 4 ist gleich.
+--------------------------------
+Zeile 5 ist gleich.
+--------------------------------
+Zeile 6 ist unterschiedlich.
+cat.txt: Feige
+cat.txt: Feige
+fox.txt: Grapefruit
+fox.txt: Grapefruit
+--------------------------------
+Zeile 7 ist gleich.
+--------------------------------
+Zeile 1 ist gleich.
+--------------------------------
+Zeile 2 ist unterschiedlich.
+cat.txt: Banane
+cat.txt: Banane
+fox.txt: Birne
+fox.txt: Birne
+--------------------------------
+Zeile 3 ist gleich.
+--------------------------------
+Zeile 4 ist gleich.
+--------------------------------
+Zeile 5 ist gleich.
+--------------------------------
+Zeile 6 ist unterschiedlich.
+cat.txt: Feige
+cat.txt: Feige
+fox.txt: Grapefruit
+fox.txt: Grapefruit
+--------------------------------
+Zeile 7 ist gleich.
+--------------------------------
+Zeile 8 ist gleich.
+--------------------------------
+Zeile 1 ist gleich.
+--------------------------------
+Zeile 2 ist unterschiedlich.
+cat.txt: Banane
+cat.txt: Banane
+fox.txt: Birne
+fox.txt: Birne
+--------------------------------
+Zeile 3 ist gleich.
+--------------------------------
+Zeile 4 ist gleich.
+--------------------------------
+Zeile 5 ist gleich.
+--------------------------------
+Zeile 6 ist unterschiedlich.
+cat.txt: Feige
+cat.txt: Feige
+fox.txt: Grapefruit
+fox.txt: Grapefruit
+--------------------------------
+Zeile 1 ist gleich.
+--------------------------------
+Zeile 2 ist unterschiedlich.
+cat.txt: Banane
+cat.txt: Banane
+fox.txt: Birne
+fox.txt: Birne
+--------------------------------
+Zeile 3 ist gleich.
+--------------------------------
+Zeile 4 ist gleich.
+--------------------------------
+Zeile 5 ist gleich.
+--------------------------------
+Zeile 6 ist unterschiedlich.
+cat.txt: Feige
+cat.txt: Feige
+fox.txt: Grapefruit
+fox.txt: Grapefruit
+--------------------------------
+Zeile 1 ist gleich.
+--------------------------------
+Zeile 2 ist unterschiedlich.
+fox.txt: Birne
+fox.txt: Birne
+cat.txt: Banane
+cat.txt: Banane
+--------------------------------
+Zeile 3 ist gleich.
+--------------------------------
+Zeile 4 ist gleich.
+--------------------------------
+Zeile 5 ist gleich.
+--------------------------------
+Zeile 6 ist unterschiedlich.
+fox.txt: Grapefruit
+fox.txt: Grapefruit
+cat.txt: Feige
+cat.txt: Feige
+--------------------------------
